@@ -1,0 +1,131 @@
+@charset
+    
+body {
+    margin: 0;
+    padding: 0;   
+}
+body{
+    background-color: #cccccc;
+}
+p {
+    text-align: justify;
+    text-indent: 50px;
+}
+
+#pagina {
+    margin: 1em auto;
+    width: 80%;
+    background:#fff;
+    margin-top: -10px;
+}
+
+#pagina {
+    font-family: verdana;
+    font-size: 12pt;
+}
+
+
+#cabecalho {
+    height: 50%;
+    width: 100%
+}
+
+#cabecalho {
+	background-image: url(bolsonaro.jpg);
+    background-position: 40% 40%;
+}
+
+#menusuperior {
+    height: 5%;
+    width: 100%;
+    margin-top: 0;
+}
+
+#menulateral {
+    background: #808080;
+    margin-top: 14px;
+    float: right;
+    width: 25%;
+    height: 150%;
+}
+
+#conteudo {
+	float: left;
+    height: 1100px;
+    width: 65%;
+    margin: 0 0 0 0;
+}
+
+#Conteudo {
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+.perfil {
+    position: relative;
+    border: 3px solid white;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.perfil {
+    display: block;
+    width: 25%;
+    margin: 30px auto;
+}
+
+#rodape {
+	clear: both;
+    height: 10%;
+    width: 100%;
+    border-top: 1px solid black;
+}
+
+#rodape p{
+	text-align: center;
+}
+/*Menu lateral*/
+#menulateral ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #333;
+}
+
+#menulateral li a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 16px 20px;
+    text-decoration: none;
+}
+
+
+#menulateral li a:hover {
+    background-color: #555;
+}
+/*Menu superior*/	
+ #menusuperior ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    background-color: #333;
+}
+
+#menusuperior li {
+    float: left;
+}
+
+#menusuperior li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 20px;
+    text-decoration: none;
+}
+
+#menusuperior li a:hover {
+    background-color: #555;
+}
