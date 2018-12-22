@@ -1,3 +1,3 @@
-# site_para_politico
+# Site para politico
 
 Trabalho da disciplina de Web Design. 
