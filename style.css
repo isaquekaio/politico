@@ -12,6 +12,21 @@ p {
     text-indent: 50px;
 }
 
+h4{
+    text-align: center;
+}
+
+#tabela1{
+    width: 100%;
+    margin: 5% 5% 0% 5%;
+}
+
+#tabela2, tr{
+    width: 100%;
+    margin: 0% 5% 0% 5%;
+    padding-bottom: 5%;
+}
+
 #pagina {
     margin: 1em auto;
     width: 80%;
@@ -46,12 +61,12 @@ p {
     margin-top: 14px;
     float: right;
     width: 25%;
-    height: 150%;
+    height: 170%;
 }
 
 #conteudo {
 	float: left;
-    height: 1100px;
+    height: 170%;
     width: 65%;
     margin: 0 0 0 0;
 }

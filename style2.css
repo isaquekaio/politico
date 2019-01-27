@@ -1,0 +1,12 @@
+@charset
+
+#menulateral {
+    width: 25%;
+    height: 170%;
+}
+
+#conteudo {
+    height: 170%;
+    width: 65%;
+    margin: 0 0 0 0;
+}
